@@ -2,7 +2,7 @@
 
 ###  DATE: 10.04.25
 
-###  NAME: M GAYATHIRI ROSHINI
+###  NAME: M GAYATHIRI ROSHINI 
 ###  ROLL NO : 212223110012
 ###  DEPARTMENT: CSE(IOT)
 ### Aim:
@@ -166,10 +166,11 @@ PUTCHAR_PROTOTYPE{
 }
 ```
 ## Output screen shots of serial port utility   :
-![image](https://github.com/user-attachments/assets/e533013a-ddb8-4813-9284-1168682e5ba1)
+![image](https://github.com/user-attachments/assets/fa4d412a-748e-4d73-9f91-07c234757c04)
 
+ 
  ## Circuit board :
-![WhatsApp Image 2025-03-13 at 11 41 19_a8fb5638](https://github.com/user-attachments/assets/9fc4356b-8f47-4c48-b17e-eafaf4837f12)
+![image](https://github.com/user-attachments/assets/1475fcdd-47ce-4212-b94b-54a79745be5d)
 
  ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
